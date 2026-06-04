@@ -1,4 +1,4 @@
-# Analytics
+# Data Analytics
 
 This section contains projects focused on data analysis, covering the full analytical workflow from data exploration and cleaning to insight generation through statistical techniques and visualizations.
 
