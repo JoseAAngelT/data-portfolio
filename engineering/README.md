@@ -25,6 +25,6 @@ The projects demonstrate how raw data can be structured, validated, and analyzed
 
 | Project | Description |
 |----------|-------------|
-| Analyzing London Public Transport Usage with SQL | Analysis of passenger journey patterns across London's transport network using SQL and DuckDB. |
+| Analyzing London Public Transport Usage with SQL | Analysis of passenger journey patterns across London's transport network. |
 
 Each project includes documentation describing the business context, methodology, SQL queries, and key findings derived from the analysis.
