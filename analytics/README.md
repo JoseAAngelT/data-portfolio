@@ -28,6 +28,6 @@ The projects span different domains and datasets, applying methodologies designe
 |----------|-------------|
 | Student Mental Health Analysis | Analysis of factors related to the mental health of international students. |
 | Analyzing Motorcycle Parts Sales | Exploration of sales performance and revenue across product lines. |
-| Business Longevity Analysis | Analysis of business longevity across categories and regions. |
+| NYC Public School Analysis | Analysis of academic performance patterns across NYC schools and boroughs. |
 
 Each project includes documentation describing the analysis objective, methodology, and key findings.
